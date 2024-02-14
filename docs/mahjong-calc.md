@@ -1,6 +1,6 @@
 ---
 title: Mahjoig Calc2
-mermaid: true
+mermaid: false
 ---
 
 ```mermaid
