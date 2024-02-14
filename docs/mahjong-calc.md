@@ -1,6 +1,6 @@
 ---
 title: Mahjoig Calc3
-mermaid: false
+mermaid: true
 my_var: hoge
 ---
 
