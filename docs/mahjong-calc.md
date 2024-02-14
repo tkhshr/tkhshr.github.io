@@ -1,6 +1,7 @@
 ---
 title: Mahjoig Calc3
 mermaid: false
+my_var: hoge
 ---
 
 ```mermaid
