@@ -1,5 +1,5 @@
 ---
-title: My JeKyll Tips with Github Pages_
+title: My JeKyll Tips with Github Pages__
 mermaid: true
 ---
 
