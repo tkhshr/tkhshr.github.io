@@ -1,7 +1,6 @@
 ---
 title: Mahjoig Calc3
 mermaid: true
-my_var: hoge
 ---
 
 ```mermaid
