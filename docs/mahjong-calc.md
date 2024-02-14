@@ -1,5 +1,5 @@
 ---
-title: My JeKyll Tips with Github Pages__
+title: Mahjoig Calc
 mermaid: true
 ---
 
