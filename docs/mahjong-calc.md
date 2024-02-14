@@ -1,5 +1,5 @@
 ---
-title: Mahjoig Calc
+title: Mahjoig Calc2
 mermaid: true
 ---
 
