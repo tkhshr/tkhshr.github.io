@@ -7,6 +7,6 @@ mermaid: true
 graph TD;
     A-->B;
     A-->C;
-    B-->D;
-    C-->D;
+    B-->E;
+    C-->E;
 ```
