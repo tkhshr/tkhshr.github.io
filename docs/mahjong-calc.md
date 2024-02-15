@@ -38,3 +38,10 @@ graph TD;
 表記は、子の点数/親の点数。
 
 子のツモは1/2で親払い、1/4で子払い。親のツモは1/3で子払い。
+
+| Priority apples | Second priority | Third priority |
+|-------|--------|---------|
+| ambrosia | gala | red delicious |
+| pink lady | jazz | macintosh |
+| honeycrisp | granny smith | fuji |
+
